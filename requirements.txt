@@ -1,0 +1,13 @@
+pytest>=8.0
+python-dotenv>=1.0
+httpx>=0.27
+pandas>=2.2
+scikit-learn>=1.4
+
+# 한국어 문장 분할 보조 (선택). segment.py를 직접 짠 뒤 비교용으로만 쓴다
+# kss>=6.0
+
+# 쓰기로 정한 모델 회사의 공식 SDK만 주석을 풀어 설치한다
+# openai
+# anthropic
+# google-genai

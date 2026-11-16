@@ -1,0 +1,9 @@
+[project]
+name = "legal-citation-harness"
+version = "0.1.0"
+description = "Misattribution benchmark and structure-aware verifier for court-judgment citations"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

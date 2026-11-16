@@ -1,0 +1,23 @@
+# 비밀 정보
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# 모델 응답 캐시 (다시 만들 수 있고 용량이 큼)
+runs/cache/
+
+# 운영체제·편집기
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 엑셀 임시 파일
+~$*
