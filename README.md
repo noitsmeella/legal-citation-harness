@@ -2,7 +2,6 @@
 
 **판례 인용 오귀속 진단 벤치마크와 구조 인식형 검증기**
 
-> 2026-2 알파프로젝트Ⅶ (학생설계형 · 개인) · 안지오 (법학부 공법학전공) · 지도교수 신홍균
 
 LLMs often answer from a court judgment yet attribute a party's allegation, a lower court's ruling, a cited precedent, or a dissent to the court's own holding. This repository (A) measures that misattribution with a discourse-role-annotated benchmark of Korean and U.S. criminal judgments, (B) builds a structure-aware verifier that flags misattributed legal claims, and (C) specifies the interface for plugging the verifier into an online law course.
 
